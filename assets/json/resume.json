@@ -5,10 +5,10 @@
     "image": "",
     "email": "farhad.hossain@cuet.ac.bd",
     "phone": "",
-    "url": "",
-    "summary": "Assistant Professor in the Department of Electronics and Telecommunication Engineering at CUET, specializing in antenna design, academic research, and teaching.",
+    "url": "https://farhadhossain13.github.io/",
+    "summary": "Assistant Professor at the Department of Electronics and Telecommunication Engineering, CUET. Specializing in antenna design, academic research, and teaching.",
     "location": {
-      "address": "",
+      "address": "Department of Electronics and Telecommunication Engineering, CUET",
       "postalCode": "4349",
       "city": "Chattogram",
       "countryCode": "BD",
@@ -146,46 +146,42 @@
       "summary": ""
     }
   ],
-  "skills": [
+  "projects": [],
+  "volunteer": [
     {
-      "name": "Languages",
-      "level": "",
-      "icon": "",
-      "keywords": [
-        "Bengali",
-        "English"
-      ]
+      "organization": "CUET Club Executive Committee",
+      "position": "Joint Sport Secretary",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": ""
     },
     {
-      "name": "Coding",
-      "level": "",
-      "icon": "",
-      "keywords": [
-        "Python",
-        "MATLAB",
-        "LaTeX"
-      ]
+      "organization": "Alumni Association of Electronics and Telecommunication Engineering, CUET",
+      "position": "Social Welfare Secretary",
+      "startDate": "2018",
+      "endDate": "",
+      "summary": ""
     },
     {
-      "name": "Simulation",
-      "level": "",
-      "icon": "",
-      "keywords": [
-        "ADS",
-        "HFSS"
-      ]
+      "organization": "Greater Comilla Student Forum",
+      "position": "Organizing Secretary",
+      "startDate": "2017",
+      "endDate": "2018",
+      "summary": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "Merit Award",
+      "date": "2014-2018",
+      "awarder": "Chittagong University of Engineering and Technology",
+      "summary": "Awarded with technical scholarship for excellent results in each semester."
     },
     {
-      "name": "Miscellaneous",
-      "level": "",
-      "icon": "",
-      "keywords": [
-        "Academic research",
-        "Teaching",
-        "Training",
-        "Consultation",
-        "LaTeX typesetting and publishing"
-      ]
+      "title": "Project Competition Winner",
+      "date": "2017",
+      "awarder": "ETE Day’17",
+      "summary": "Awarded 1st prize in the project competition."
     }
   ],
   "certificates": [
@@ -204,51 +200,64 @@
       "icon": ""
     }
   ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "Bengali",
+        "English"
+      ]
+    },
+    {
+      "name": "Coding",
+      "keywords": [
+        "Python",
+        "MATLAB",
+        "LaTeX"
+      ]
+    },
+    {
+      "name": "Simulation",
+      "keywords": [
+        "ADS",
+        "HFSS"
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "keywords": [
+        "Academic research",
+        "Teaching",
+        "Training",
+        "Consultation",
+        "LaTeX typesetting and publishing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Bengali",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Academic Research",
+      "keywords": ["Antenna Design", "Machine Learning", "Telecommunications"]
+    }
+  ],
   "references": [
     {
       "name": "Prof. Dr. Md. Azad Hossain",
-      "icon": "",
       "reference": "Professor and Head, Dept. of ETE, CUET."
     },
     {
       "name": "Dr. Md. Saiful Islam",
-      "icon": "",
       "reference": "Associate Professor, Dept. of ETE, CUET."
-    }
-  ],
-  "projects": [],
-  "awards": [
-    {
-      "title": "Merit Award",
-      "date": "2014-2018",
-      "awarder": "Chittagong University of Engineering and Technology",
-      "summary": "Awarded with technical scholarship for excellent results in each semester."
-    },
-    {
-      "title": "Project Competition Winner",
-      "date": "2017",
-      "awarder": "ETE Day’17",
-      "summary": "Awarded 1st prize in the project competition."
-    }
-  ],
-  "extracurricular": [
-    {
-      "name": "Joint Sport Secretary",
-      "organization": "CUET Club Executive Committee",
-      "startDate": "2021",
-      "endDate": "2022"
-    },
-    {
-      "name": "Social Welfare Secretary",
-      "organization": "Alumni Association of Electronics and Telecommunication Engineering, CUET",
-      "startDate": "2018",
-      "endDate": ""
-    },
-    {
-      "name": "Organizing Secretary",
-      "organization": "Greater Comilla Student Forum",
-      "startDate": "2017",
-      "endDate": "2018"
     }
   ]
 }
