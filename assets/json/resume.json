@@ -1,200 +1,254 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Md. Farhad Hossain",
+    "label": "Assistant Professor",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "farhad.hossain@cuet.ac.bd",
+    "phone": "",
+    "url": "",
+    "summary": "Assistant Professor in the Department of Electronics and Telecommunication Engineering at CUET, specializing in antenna design, academic research, and teaching.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "4349",
+      "city": "Chattogram",
+      "countryCode": "BD",
+      "region": "Bangladesh"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Chittagong University of Engineering and Technology",
+      "position": "Assistant Professor",
+      "url": "",
+      "startDate": "2023-01-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Chittagong University of Engineering and Technology",
+      "position": "Lecturer",
+      "url": "",
+      "startDate": "2019-01-01",
+      "endDate": "2022-12-31",
+      "summary": "",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "institution": "Chittagong University of Engineering and Technology",
+      "location": "Chattogram, Bangladesh",
+      "url": "",
+      "area": "Electronics and Telecommunication Engineering",
+      "studyType": "M.Sc.",
+      "startDate": "2024-01-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "institution": "Chittagong University of Engineering and Technology",
+      "location": "Chattogram, Bangladesh",
+      "url": "",
+      "area": "Electronics and Telecommunication Engineering",
+      "studyType": "B.Sc.",
+      "startDate": "2014-01-01",
+      "endDate": "2018-01-01",
+      "score": "4.00",
+      "courses": []
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "A simple feed orthogonal excitation x-band dual circular polarized microstrip patch array antenna",
+      "publisher": "International Journal of Electrical & Computer Engineering",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Phase delay through slot-line beam switching microstrip patch array antenna design for sub-6 GHz 5G band applications",
+      "publisher": "International Journal of Electrical & Computer Engineering",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "A 5G beam-steering microstrip array antenna using both-sided microwave integrated circuit technology",
+      "publisher": "International Journal of Electrical & Computer Engineering",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Design and characterization of a circularly polarized microstrip-line-fed slot array antenna for s-band applications",
+      "publisher": "International Journal of Electrical and Computer Engineering",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Modified d shaped dual-band microstrip patch antenna for 5G ka band application",
+      "publisher": "3rd International Conference on Advancement in Electrical and Electronic Engineering (ICAEEE), IEEE",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "An x-band dual circular polarized single feed three-element microstrip patch array antenna",
+      "publisher": "6th International Conference on Electrical Information and Communication Technology (EICT), IEEE",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "A four-element patch array antenna for direction of arrival (DOA) estimation with beam switching applications",
+      "publisher": "26th International Conference on Computer and Information Technology (ICCIT), IEEE",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "A polarization reconfigurable cockroach shaped microstrip patch antenna for WLAN applications",
+      "publisher": "9th International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE), IEEE",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Design and characterization of a ring shaped circular polarized microstrip patch antenna for x band applications",
+      "publisher": "4th International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE), IEEE",
+      "releaseDate": "2022",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Brain tumor classification from MRI images using convolutional neural network",
+      "publisher": "IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET), IEEE",
+      "releaseDate": "2021",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "A color and texture based approach for the detection and classification of plant leaf disease using KNN classifier",
+      "publisher": "International Conference on Electrical, Computer and Communication Engineering (ECCE), IEEE",
+      "releaseDate": "2019",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "An approach for the detection and classification of tumor cells from bone MRI using wavelet transform and KNN classifier",
+      "publisher": "International Conference on Innovation in Engineering and Technology (ICIET), IEEE",
+      "releaseDate": "2018",
+      "url": "",
+      "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Languages",
+      "level": "",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Bengali",
+        "English"
+      ]
+    },
+    {
+      "name": "Coding",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "Python",
+        "MATLAB",
+        "LaTeX"
+      ]
+    },
+    {
+      "name": "Simulation",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "ADS",
+        "HFSS"
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "Academic research",
+        "Teaching",
+        "Training",
+        "Consultation",
+        "LaTeX typesetting and publishing"
       ]
     }
   ],
-  "languages": [
+  "certificates": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "name": "Deep Learning Specialization",
+      "date": "2021-01-01",
+      "issuer": "Coursera",
+      "url": "",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "name": "Big Data Analytics",
+      "date": "2018-01-01",
+      "issuer": "LANE",
+      "url": "",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Prof. Dr. Md. Azad Hossain",
+      "icon": "",
+      "reference": "Professor and Head, Dept. of ETE, CUET."
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Dr. Md. Saiful Islam",
+      "icon": "",
+      "reference": "Associate Professor, Dept. of ETE, CUET."
     }
   ],
-  "projects": [
+  "projects": [],
+  "awards": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "title": "Merit Award",
+      "date": "2014-2018",
+      "awarder": "Chittagong University of Engineering and Technology",
+      "summary": "Awarded with technical scholarship for excellent results in each semester."
+    },
+    {
+      "title": "Project Competition Winner",
+      "date": "2017",
+      "awarder": "ETE Day’17",
+      "summary": "Awarded 1st prize in the project competition."
+    }
+  ],
+  "extracurricular": [
+    {
+      "name": "Joint Sport Secretary",
+      "organization": "CUET Club Executive Committee",
+      "startDate": "2021",
+      "endDate": "2022"
+    },
+    {
+      "name": "Social Welfare Secretary",
+      "organization": "Alumni Association of Electronics and Telecommunication Engineering, CUET",
+      "startDate": "2018",
+      "endDate": ""
+    },
+    {
+      "name": "Organizing Secretary",
+      "organization": "Greater Comilla Student Forum",
+      "startDate": "2017",
+      "endDate": "2018"
     }
   ]
 }
