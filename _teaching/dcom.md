@@ -29,7 +29,7 @@ img: /assets/img/12.jpg
       </h2>
     </div>
 
-    <div id="collapseTheory" class="collapse show" aria-labelledby="headingTheory" data-parent="#digitalCommAccordion">
+  <div id="collapseTheory" class="collapse show" aria-labelledby="headingTheory" data-parent="#digitalCommAccordion">
       <div class="card-body">
         <strong>Objectives:</strong>
         <ul>
@@ -38,14 +38,12 @@ img: /assets/img/12.jpg
           <li>Evaluate systems using SNR and Bit Error Rate (BER)</li>
           <li>Design new digital communication models</li>
         </ul>
-
         <strong>Grading:</strong>
         <ul>
           <li>Attendance & Participation: 10%</li>
           <li>Assignments/Class Tests: 20%</li>
           <li>Final Exam: 70%</li>
         </ul>
-
         <strong>Topics Include:</strong>
         <ul>
           <li>Modulation Techniques: ASK, PSK, DPSK, FSK, QPSK, QAM</li>
@@ -53,7 +51,6 @@ img: /assets/img/12.jpg
           <li>Spread Spectrum, CDMA, OFDM</li>
           <li>TDM, Error analysis, and Eye diagrams</li>
         </ul>
-
         <strong>Books:</strong>
         <ul>
           <li>B.P. Lathi – <em>Modern Digital and Analog Communication</em></li>
@@ -74,7 +71,7 @@ img: /assets/img/12.jpg
       </h2>
     </div>
 
-    <div id="collapseSessional" class="collapse" aria-labelledby="headingSessional" data-parent="#digitalCommAccordion">
+  <div id="collapseSessional" class="collapse" aria-labelledby="headingSessional" data-parent="#digitalCommAccordion">
       <div class="card-body">
         <strong>Objectives:</strong>
         <ul>
@@ -83,7 +80,6 @@ img: /assets/img/12.jpg
           <li>Understand passband transmission and BER</li>
           <li>Practice TDM and spread spectrum in lab</li>
         </ul>
-
         <strong>Grading:</strong>
         <ul>
           <li>Attendance: 10%</li>
@@ -91,7 +87,6 @@ img: /assets/img/12.jpg
           <li>Quiz: 15%</li>
           <li>Viva-Voce: 15%</li>
         </ul>
-
         <strong>Lab Topics Include:</strong>
         <ul>
           <li>ASK, FSK, PSK, QAM modulation & demodulation</li>
@@ -99,7 +94,6 @@ img: /assets/img/12.jpg
           <li>PCM, TDM, and Codec implementation</li>
           <li>Spread Spectrum and CDMA in practice</li>
         </ul>
-
         <strong>Lab Resources:</strong>
         <ul>
           <li>Same reference books as theory</li>
