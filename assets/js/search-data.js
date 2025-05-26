@@ -31,8 +31,8 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          title: "Teaching",
+          description: "Materials for courses I have taught.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -445,6 +445,21 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "teaching-ete-305-digital-communication",
+          title: 'ETE 305 - Digital Communication',
+          description: "Digital modulation, multiplexing, and lab applications",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/dcom/";
+            },},{id: "teaching-ete-201-electronics-ii",
+          title: 'ETE 201 – Electronics II',
+          description: "A core course on analog electronics, focusing on amplifier and filter design.",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/electronicsII/";
+            },},{id: "teaching-ete-207-electromagnetic-fields-and-wave",
+          title: 'ETE 207 – Electromagnetic Fields and Wave',
+          description: "A core course that builds foundational understanding of electric and magnetic field behavior in space and time.",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/emf/";
             },},{
         id: 'social-linkedin',
         title: 'LinkedIn',
