@@ -2,7 +2,7 @@
 layout: page
 title: ETE 201 – Electronics II
 description: A core course on analog electronics, focusing on amplifier and filter design.
-img: assets\img\electronicsII\home_icon.jpg
+img: assets\img\home_icon.jpeg
 importance: 1
 category: current
 ---
@@ -15,7 +15,7 @@ category: current
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\electronicsII\components_arduino.jpg" title="Different Components" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets\img\electronics_1.jpg" title="Different Components" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -42,10 +42,10 @@ category: current
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets\img\electronicsII\circuits_board.jpg" title="Connections in Circuit Board" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets\img\electronics_1.jpg" title="Connections in Circuit Board" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets\img\electronicsII\res_cap_ind.jpg" title="Differenct components" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets\img\electronics_1.jpg" title="Differenct components" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

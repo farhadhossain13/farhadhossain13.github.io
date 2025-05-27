@@ -2,7 +2,7 @@
 layout: page
 title: ETE 305 - Digital Communication
 description: Digital modulation, multiplexing, and lab applications
-img: assets/img/12.jpg
+img: assets\img\home_icon.jpeg
 importance: 3
 category: current
 ---
