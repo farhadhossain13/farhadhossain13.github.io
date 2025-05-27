@@ -2,7 +2,7 @@
 layout: page
 title: ETE 201 – Electronics II
 description: A core course on analog electronics, focusing on amplifier and filter design.
-img: assets\img\home_icon.jpeg
+img: assets\img\12.jpg
 importance: 1
 category: current
 ---
@@ -15,7 +15,7 @@ category: current
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\electronics_1.jpg" title="Different Components" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets\img\1.jpg" title="Different Components" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
