@@ -2,7 +2,7 @@
 layout: page
 title: ETE 207 – Electromagnetic Fields and Wave
 description: A core course that builds foundational understanding of electric and magnetic field behavior in space and time.
-img: assets\img\home_icon.jpeg
+img: assets/img/home_icon.jpeg
 importance: 2
 category: current
 ---
@@ -16,7 +16,7 @@ category: current
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\home_icon.jpeg" title="Different Components" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/home_icon.jpeg" title="Different Components" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -43,10 +43,10 @@ category: current
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets\img\electronics_1.jpg" title="Connections in Circuit Board" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/electronics_1.jpg" title="Connections in Circuit Board" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets\img\home_icon.jpeg" title="Differenct components" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/home_icon.jpeg" title="Differenct components" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
