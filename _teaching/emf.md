@@ -16,7 +16,7 @@ category: current
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\electronicsII\components_arduino.jpg" title="Different Components" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets\img\components_arduino.jpg" title="Different Components" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -43,10 +43,10 @@ category: current
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets\img\electronicsII\circuits_board.jpg" title="Connections in Circuit Board" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets\img\circuits_board.jpg" title="Connections in Circuit Board" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets\img\electronicsII\res_cap_ind.jpg" title="Differenct components" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets\img\res_cap_ind.jpg" title="Differenct components" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
