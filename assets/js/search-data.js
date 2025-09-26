@@ -438,8 +438,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teaching-ete-305-digital-communication",
-          title: 'ETE 305 - Digital Communication',
+            },},{id: "teaching-ete-305-amp-306-digital-communication",
+          title: 'ETE 305 &amp;amp; 306 – Digital Communication',
           description: "Digital modulation, multiplexing, and lab applications",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/dcom/";
